@@ -1,1 +1,2 @@
-# Student-form
+Student Form Project
+This project is a fully functional student registration form built using HTML, CSS, and JavaScript. The form includes various input fields such as name, email, phone number, date of birth, and course selection. JavaScript is used for form validation, ensuring that users enter valid data before submission. The design is responsive and user-friendly, providing a smooth experience across different devices. This project demonstrates skills in frontend development, form handling, and client-side validation.
